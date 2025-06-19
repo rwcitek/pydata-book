@@ -36,6 +36,7 @@ reorganized book materials on the [`1st-edition` branch][2].
 * [Chapter 12: Introduction to Modeling Libraries in Python](ch12.ipynb)
 * [Chapter 13: Data Analysis Examples](ch13.ipynb)
 * [Appendix A: Advanced NumPy](appa.ipynb)
+* [Appendix B: More on the IPython System](appb.ipynb)
 
 ## License
 
