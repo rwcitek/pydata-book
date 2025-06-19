@@ -7,7 +7,7 @@ website][6].
 
 [Buy the book on Amazon][1]
 
-[View in O'Reill Learning Library][7]
+[View in O'Reilly Learning Library][7]
 
 Follow Wes on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/wesmckinn.svg?style=social&label=Follow)](https://twitter.com/wesmckinn)
 
