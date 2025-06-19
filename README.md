@@ -7,6 +7,8 @@ website][6].
 
 [Buy the book on Amazon][1]
 
+[View in O'Reill Learning Library][7]
+
 Follow Wes on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/wesmckinn.svg?style=social&label=Follow)](https://twitter.com/wesmckinn)
 
 # 2nd Edition Readers
@@ -47,3 +49,4 @@ above, is released under the [MIT license](LICENSE-CODE). Read more at the
 [2]: https://github.com/wesm/pydata-book/tree/1st-edition
 [5]: https://github.com/wesm/pydata-book/tree/2nd-edition
 [6]: https://wesmckinney.com/book/
+[7]: https://learning.oreilly.com/library/view/python-for-data/9781098104023/
